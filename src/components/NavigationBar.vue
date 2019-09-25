@@ -22,7 +22,8 @@
                 <a class="nav-link" href="#section3">My Work</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" target="_blank" href="https://drive.google.com/file/d/19gBlKP1L52vTQf1hHUSjQLr3DWz2iDnc/view?usp=sharing">Resume</a>
+                <a class="nav-link" href="../assets/resume.pdf">Resume</a>
+                
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#section4">Contact</a>

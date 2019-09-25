@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/Krit7.github.io/'
+    publicPath: '/Krit7/'
 }

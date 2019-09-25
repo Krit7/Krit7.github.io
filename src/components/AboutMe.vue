@@ -10,7 +10,7 @@
               Ab<span class="about-me-border">out</span> Me
             </span>
             <p class="about-me-content">
-              Hi! I am Krit , a {{calculate_age()}} year self-motivated Web Developer with some experience of working on multiple projects. Passionate and hardworking with penchant for meeting deadlines. Interested in role with company promoting best practices and offering diverse projects and learning.
+              Hi! I am Krit , a {{calculate_age()}} year old self-motivated Web Developer with some experience of working on multiple projects. Passionate and hardworking with penchant for meeting deadlines. Interested in a role with a company promoting best practices and offering diverse projects and learning.
             </p>
             <p class="about-me-content">Currently seeking <strong>opportunitites</strong> as a <br> <strong style="color: #0cb4ce">Web Developer   <strong>|</strong>   Software Developer</strong></p>
           </div>
